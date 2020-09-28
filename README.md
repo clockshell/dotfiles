@@ -1,1 +1,1 @@
-# DOTFILES
+Collection of dotfiles.
